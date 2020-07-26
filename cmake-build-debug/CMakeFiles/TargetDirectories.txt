@@ -1,3 +1,0 @@
-/home/biniu/CLionProjects/cppDesignPatterns/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/biniu/CLionProjects/cppDesignPatterns/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/biniu/CLionProjects/cppDesignPatterns/cmake-build-debug/CMakeFiles/cppDesignPatterns.dir
