@@ -1,7 +1,3 @@
-//
-// Created by biniu on 7/21/20.
-//
-
 #ifndef CPPDESIGNPATTERNS_SINGLETONEXAMPLE_H
 #define CPPDESIGNPATTERNS_SINGLETONEXAMPLE_H
 
@@ -21,13 +17,3 @@ private:
 };
 
 #endif // CPPDESIGNPATTERNS_SINGLETONEXAMPLE_H
-
-
-// NOTEs
-// When use:
-// when we need only one instance in the system
-// example:
-// database repository
-// object factory
-// logger
-// constructions is expensive
